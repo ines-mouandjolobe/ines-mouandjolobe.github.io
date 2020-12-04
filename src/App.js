@@ -9,7 +9,7 @@ function App() {
         <p>
           Bienvenue sur le portfolio d'Inès Mouandjo Lobé !
         </p>
-        <p>Ce site est en construction ...</p>
+        <p>En construction ...</p>
       </header>
     </div>
   );
