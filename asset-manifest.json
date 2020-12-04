@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ines-mouandjolobe.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ines-mouandjolobe.github.io/static/js/main.443d0566.chunk.js",
+    "main.js.map": "/ines-mouandjolobe.github.io/static/js/main.443d0566.chunk.js.map",
+    "runtime-main.js": "/ines-mouandjolobe.github.io/static/js/runtime-main.ab466db0.js",
+    "runtime-main.js.map": "/ines-mouandjolobe.github.io/static/js/runtime-main.ab466db0.js.map",
+    "static/js/2.bf8c9acd.chunk.js": "/ines-mouandjolobe.github.io/static/js/2.bf8c9acd.chunk.js",
+    "static/js/2.bf8c9acd.chunk.js.map": "/ines-mouandjolobe.github.io/static/js/2.bf8c9acd.chunk.js.map",
+    "static/js/3.97843552.chunk.js": "/ines-mouandjolobe.github.io/static/js/3.97843552.chunk.js",
+    "static/js/3.97843552.chunk.js.map": "/ines-mouandjolobe.github.io/static/js/3.97843552.chunk.js.map",
+    "index.html": "/ines-mouandjolobe.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ines-mouandjolobe.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.bf8c9acd.chunk.js.LICENSE.txt": "/ines-mouandjolobe.github.io/static/js/2.bf8c9acd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ines-mouandjolobe.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab466db0.js",
+    "static/js/2.bf8c9acd.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.443d0566.chunk.js"
+  ]
+}
