@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 import App from './App';
 
-export default function BasicExample() {
+const AppRoutes = () => {
   return (
     <Router>
         <Switch>
@@ -17,3 +17,5 @@ export default function BasicExample() {
     </Router>
   );
 }
+
+export default AppRoutes;
